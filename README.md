@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is very simple but includes react with typescript and redux i used react-redux axios redux-thunk redux-devtools-extension packages
 
 ## Available Scripts
 
